@@ -1,6 +1,6 @@
 <?php
 
-echo 'hello, world';
+echo 'XXX_hello, world';
 echo 'another';
 
 ?>
