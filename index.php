@@ -1,6 +1,6 @@
 <?php
 
-echo '';
+echo '1';
 echo 'hello, world';
 echo '<br>';
 echo 'another12';
